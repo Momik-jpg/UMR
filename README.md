@@ -2,40 +2,44 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-**UMR (Useless Mobs Reworked)** ist eine Minecraft Mod, die sich darauf konzentriert, bisher wenig relevante und selten genutzte Mobs zu überarbeiten und ihnen neue Funktionen zu geben.
-Das Ziel der Mod ist es, diese Mobs interessanter zu machen und ihnen mehr Einfluss auf das Gameplay zu geben.
+UMR ist ein Minecraft-Mod-Projekt, das selten genutzte Vanilla-Mobs überarbeitet und ihnen neue Fähigkeiten, Drops und einen stärkeren Einfluss auf das Gameplay gibt.
 
-## Idee des Projekts
-Minecraft enthält viele Mobs, die im normalen Spielverlauf kaum eine Rolle spielen. In diesem Projekt überarbeiten wir solche Mobs und geben ihnen neue Fähigkeiten, Drops oder Verhaltensweisen.
-Anstatt neue Kreaturen zu erstellen, konzentrieren wir uns bewusst darauf, bereits existierende Mobs zu verbessern und ihnen mehr Bedeutung im Spiel zu geben.
+## Projektidee
 
-## Projektziele
-Dieses Projekt wurde im **Januar 2026** gestartet und verfolgt mehrere Ziele:
+Statt immer neue Kreaturen hinzuzufügen, verbessert UMR bereits vorhandene Mobs. Dadurch soll sich die Mod weiterhin wie Minecraft anfühlen, während Begegnungen abwechslungsreicher und nützlicher werden.
 
-* praktische Erfahrung mit der Programmiersprache **Java** sammeln
-* lernen, gemeinsam an einem Softwareprojekt zu arbeiten
-* **professionelle Zusammenarbeit über GitHub** üben
-* Versionskontrolle und strukturierte Entwicklung kennenlernen
-* ein Projekt erstellen, das auch in **Bewerbungen** gezeigt werden kann
+## Inhalt dieses Repositories
 
-## Arbeitsweise
-Die Entwicklung erfolgt vollständig über ein gemeinsames **GitHub Repository**.
-Dabei nutzen wir typische Methoden aus der Softwareentwicklung:
-* Commits zur Dokumentation von Änderungen
-* strukturierte Projektorganisation
-* Kommunikation über Issues und Repository-Tools statt über Chatprogramme
-Dadurch lernen wir, wie professionelle Entwicklerteams zusammenarbeiten.
+Dieses Repository dokumentiert die Design- und Asset-Arbeit des Projekts:
 
-## Aktueller Status
-Die Mod befindet sich aktuell noch in der Entwicklung.
-Wir arbeiten kontinuierlich daran, neue Ideen umzusetzen und bestehende Mobs zu überarbeiten.
+- Mob-Konzepte und Balancing-Ideen
+- Grafiken, Modelle und Texturen
+- Arbeitsdateien und Asset-Prompts
+- gemeinsame Projektdokumentation
 
-## Entwickler
-Andrin Maag
-Aleksandar Nikolic
+Die aktive technische Entwicklung befindet sich im gemeinsamen Repository [AleksZyro/UMR-Useless-mobs-reworked-Mod](https://github.com/AleksZyro/UMR-Useless-mobs-reworked-Mod).
 
-## Hinweis
-Dieses Projekt ist ein Lernprojekt und dient hauptsächlich dazu, Programmiererfahrung zu sammeln und Teamarbeit in der Softwareentwicklung zu üben.
-* strukturiertes Arbeiten
-* Versionskontrolle
-* Teamarbeit bei Programmierprojekten.
+## Zusammenarbeit
+
+UMR ist ein Zweierteam-Projekt von:
+
+- Andrin Maag
+- Aleksandar Nikolic
+
+Änderungen werden über GitHub-Issues, Branches und Pull Requests geplant und geprüft. Die Commit- und PR-Historie macht die jeweiligen Beiträge nachvollziehbar.
+
+## Ziele
+
+- Java und Minecraft-Modding praktisch anwenden
+- Gameplay-Ideen strukturiert entwickeln und testen
+- Modelle und Texturen in eine technische Pipeline integrieren
+- professionelle Zusammenarbeit mit Git und GitHub üben
+- ein nachvollziehbares Teamprojekt für Bewerbungen aufbauen
+
+## Status
+
+Das Projekt befindet sich in aktiver Entwicklung. Inhalte können sich während Implementierung, Tests und Balancing noch verändern.
+
+## Lizenz
+
+GNU General Public License v3.0 – siehe [LICENSE](LICENSE).
