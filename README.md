@@ -1,5 +1,7 @@
 # UMR – Useless Mobs Reworked
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 **UMR (Useless Mobs Reworked)** ist eine Minecraft Mod, die sich darauf konzentriert, bisher wenig relevante und selten genutzte Mobs zu überarbeiten und ihnen neue Funktionen zu geben.
 Das Ziel der Mod ist es, diese Mobs interessanter zu machen und ihnen mehr Einfluss auf das Gameplay zu geben.
 
